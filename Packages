@@ -7,10 +7,11 @@ Size: 165860
 MD5sum: 7db0837f3418312f6b46e6e609b0395a
 SHA1: 9e951ba956f121cdf9b372d9f137ac7ecba8c567
 SHA256: d976ac15e8633a5ed30f949cb31b22972eb3d22c9d2c07ce5f115175afdd0b49
-Section: 微信VIP
+Section: 微信VIP插件
 Priority: optional
-Homepage: http://wxvip.org
-Description: 微信密友 微信vip 伪装定位 微信分身 微信多开
+Homepage: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
+Description: 微信密友 隐藏好友 微信vip 伪装定位 微信分身 微信多开 wxvip
+Depiction: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
 Author: WXVIP.ORG
-Name: 微信VIP
+Name: 微信VIP插件版（正版密友）
 

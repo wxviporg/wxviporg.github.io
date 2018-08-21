@@ -5,3 +5,4 @@ Release-Template
 .DS_Store
 compile-inc
 .sass-cache/
+.idea/
