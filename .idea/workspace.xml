@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6de01c-af88-4914-baec-6db28e88eef3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages.bz2" beforeDir="false" afterPath="$PROJECT_DIR$/Packages.bz2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Release" beforeDir="false" afterPath="$PROJECT_DIR$/Release" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -50,10 +52,24 @@
       <file leaf-file-name="Packages" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="105">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Release" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Release">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CydiaIcon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CydiaIcon.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
@@ -87,15 +103,6 @@
                 <element signature="n#style#0;n#small#0;n#p#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screenshots.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -137,10 +144,10 @@
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
         <option value="$PROJECT_DIR$/packages.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/Release" />
-        <option value="$PROJECT_DIR$/Packages" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Packages" />
+        <option value="$PROJECT_DIR$/Release" />
       </list>
     </option>
   </component>
@@ -209,12 +216,12 @@
       <updated>1533633865963</updated>
       <workItem from="1533633867698" duration="1471000" />
       <workItem from="1533689398182" duration="3741000" />
-      <workItem from="1534815039465" duration="16855000" />
+      <workItem from="1534815039465" duration="17837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22067000" />
+    <option name="totallyTimeSpent" value="23049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1250" height="777" extended-state="6" />
@@ -386,9 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CydiaIcon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -439,24 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Release">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/ios7.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Packages">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -475,6 +465,23 @@
             <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2274#2280#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CydiaIcon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Release">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
