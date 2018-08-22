@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6de01c-af88-4914-baec-6db28e88eef3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages" beforeDir="false" afterPath="$PROJECT_DIR$/Packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages.bz2" beforeDir="false" afterPath="$PROJECT_DIR$/Packages.bz2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Release" beforeDir="false" afterPath="$PROJECT_DIR$/Release" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb" beforeDir="false" afterPath="$PROJECT_DIR$/deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2274#2280#0" expanded="true" />
@@ -40,20 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ios7.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/ios7.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Packages" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="195">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -61,8 +49,8 @@
       <file leaf-file-name="Release" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Release">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -84,8 +72,8 @@
       <file leaf-file-name="packages.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#183#191#0" expanded="true" />
                 <element signature="e#4325#4333#0" expanded="true" />
@@ -97,8 +85,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-615">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="n#style#0;n#small#0;n#p#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -110,8 +98,17 @@
       <file leaf-file-name="changelog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screenshots.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -139,14 +136,14 @@
         <option value="$PROJECT_DIR$/depiction/applebetas.ios.tweak.specialfaces/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/css/ios7.css" />
-        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" />
-        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" />
-        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
-        <option value="$PROJECT_DIR$/packages.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Packages" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/packages.html" />
+        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" />
+        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
+        <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" />
         <option value="$PROJECT_DIR$/Release" />
       </list>
     </option>
@@ -161,9 +158,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="30" />
+    <option name="x" value="29" />
     <option name="y" value="23" />
-    <option name="width" value="1250" />
+    <option name="width" value="1251" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -178,6 +175,17 @@
             <path>
               <item name="WXVIPRepo" type="b2602c69:ProjectViewProjectNode" />
               <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WXVIPRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
+              <item name="depiction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WXVIPRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
+              <item name="depiction" type="462c0819:PsiDirectoryNode" />
+              <item name="com.tencent.wxviptweak" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,18 +224,18 @@
       <updated>1533633865963</updated>
       <workItem from="1533633867698" duration="1471000" />
       <workItem from="1533689398182" duration="3741000" />
-      <workItem from="1534815039465" duration="17837000" />
+      <workItem from="1534815039465" duration="27543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23049000" />
+    <option name="totallyTimeSpent" value="32755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1250" height="777" extended-state="6" />
+    <frame x="28" y="23" width="1250" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17331164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22213182" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -400,53 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-          <folding>
-            <element signature="n#style#0;n#small#0;n#p#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#183#191#0" expanded="true" />
-            <element signature="e#4325#4333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/ios7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -457,10 +422,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CydiaIcon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ios7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="844" selection-start-line="7" selection-start-column="844" selection-end-line="7" selection-end-column="844" />
+          <folding>
+            <element signature="e#4402#4661#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2274#2280#0" expanded="true" />
@@ -468,20 +446,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CydiaIcon.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/packages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#183#191#0" expanded="true" />
+            <element signature="e#4325#4333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#p#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Packages">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Release">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>

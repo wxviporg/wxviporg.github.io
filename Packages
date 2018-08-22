@@ -3,15 +3,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb
-Size: 165860
-MD5sum: 7db0837f3418312f6b46e6e609b0395a
-SHA1: 9e951ba956f121cdf9b372d9f137ac7ecba8c567
-SHA256: d976ac15e8633a5ed30f949cb31b22972eb3d22c9d2c07ce5f115175afdd0b49
+Size: 161646
+MD5sum: 81f31741dfc4a88a1007818d1fe88a1e
+SHA1: 0f818f417981168b5c8fcaa3310827ed2250681c
+SHA256: c7320deaeabe2e0d729d4f8dff27ba9ea8288d50d9a375f01ff4270f4ffa7952
 Section: 微信VIP插件
 Priority: optional
 Homepage: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
-Description: 微信密友 隐藏好友 微信vip 伪装定位 微信分身 微信多开 wxvip
-Depiction: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
+Description: 微信密友 隐藏好友 伪装定位 语音转发 wxvip 锐中心 修改定位
 Author: WXVIP.ORG
-Name: 微信VIP插件版（正版密友）
+Depiction: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
+Icon: http://apt.wxvip.org/CydiaIcon.png
+Name: 微信VIP插件版
 
