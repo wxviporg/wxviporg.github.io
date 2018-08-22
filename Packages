@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb
-Size: 161646
-MD5sum: 81f31741dfc4a88a1007818d1fe88a1e
-SHA1: 0f818f417981168b5c8fcaa3310827ed2250681c
-SHA256: c7320deaeabe2e0d729d4f8dff27ba9ea8288d50d9a375f01ff4270f4ffa7952
+Size: 162246
+MD5sum: e4d1390d659326702a6c5fae826f2cd2
+SHA1: 9369cea1731f8820b84a2095134b7b44c1aadc85
+SHA256: eb29e5a7bb9bfb859dce8e0d74bf00b861ae3bfbad0eae4b35044debc3ef307e
 Section: 微信VIP插件
 Priority: optional
 Homepage: http://apt.wxvip.org/depiction/com.tencent.wxviptweak/
