@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6de01c-af88-4914-baec-6db28e88eef3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/packages.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages" beforeDir="false" afterPath="$PROJECT_DIR$/Packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages.bz2" beforeDir="false" afterPath="$PROJECT_DIR$/Packages.bz2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Release" beforeDir="false" afterPath="$PROJECT_DIR$/Release" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,13 +34,13 @@
       <file leaf-file-name="Packages" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Release" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Release" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Release">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -61,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packages.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="packages.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="75">
+              <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
               <folding>
                 <element signature="e#183#191#0" expanded="true" />
                 <element signature="e#4325#4333#0" expanded="true" />
@@ -130,13 +132,13 @@
         <option value="$PROJECT_DIR$/css/ios7.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Packages" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" />
-        <option value="$PROJECT_DIR$/Release" />
         <option value="$PROJECT_DIR$/packages.html" />
+        <option value="$PROJECT_DIR$/Packages" />
+        <option value="$PROJECT_DIR$/Release" />
       </list>
     </option>
   </component>
@@ -205,12 +207,12 @@
       <updated>1533633865963</updated>
       <workItem from="1533633867698" duration="1471000" />
       <workItem from="1533689398182" duration="3741000" />
-      <workItem from="1534815039465" duration="28214000" />
+      <workItem from="1534815039465" duration="29090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33426000" />
+    <option name="totallyTimeSpent" value="34302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1250" height="777" extended-state="6" />
@@ -452,28 +454,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Release">
+    <entry file="file://$PROJECT_DIR$/packages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="75">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding>
+            <element signature="e#183#191#0" expanded="true" />
+            <element signature="e#4325#4333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Packages">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages.html">
+    <entry file="file://$PROJECT_DIR$/Release">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#183#191#0" expanded="true" />
-            <element signature="e#4325#4333#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
