@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6de01c-af88-4914-baec-6db28e88eef3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Packages" beforeDir="false" afterPath="$PROJECT_DIR$/Packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages.bz2" beforeDir="false" afterPath="$PROJECT_DIR$/Packages.bz2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Release" beforeDir="false" afterPath="$PROJECT_DIR$/Release" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb" beforeDir="false" afterPath="$PROJECT_DIR$/deb/com.tencent.WxvipTweak_1.0_iphoneos-arm.deb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+            <state relative-caret-position="456">
+              <caret line="65" column="77" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
               <folding>
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2274#2280#0" expanded="true" />
@@ -133,13 +130,13 @@
         <option value="$PROJECT_DIR$/css/ios7.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" />
         <option value="$PROJECT_DIR$/packages.html" />
         <option value="$PROJECT_DIR$/Packages" />
         <option value="$PROJECT_DIR$/Release" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -208,12 +205,12 @@
       <updated>1533633865963</updated>
       <workItem from="1533633867698" duration="1471000" />
       <workItem from="1533689398182" duration="3741000" />
-      <workItem from="1534815039465" duration="30203000" />
+      <workItem from="1534815039465" duration="30987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35415000" />
+    <option name="totallyTimeSpent" value="36199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1250" height="777" extended-state="6" />
@@ -471,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+        <state relative-caret-position="456">
+          <caret line="65" column="77" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
           <folding>
             <element signature="n#style#0;n#small#0;n#a#0;n#li#0;n#ul#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2274#2280#0" expanded="true" />
