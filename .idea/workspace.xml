@@ -20,13 +20,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="53" column="13" selection-end-line="99" />
+            <state relative-caret-position="366">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Packages" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Packages" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Packages">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -58,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packages.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="packages.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/packages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            <state relative-caret-position="495">
+              <caret line="33" column="93" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -128,12 +128,12 @@
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/screenshots.html" />
-        <option value="$PROJECT_DIR$/packages.html" />
         <option value="$PROJECT_DIR$/Release" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/changelog.html" />
         <option value="$PROJECT_DIR$/depiction/com.tencent.wxviptweak/index.html" />
         <option value="$PROJECT_DIR$/Packages" />
+        <option value="$PROJECT_DIR$/packages.html" />
       </list>
     </option>
   </component>
@@ -175,17 +175,6 @@
               <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
               <item name="deb" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WXVIPRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="depiction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WXVIPRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WXVIPRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="depiction" type="462c0819:PsiDirectoryNode" />
-              <item name="org.wxvip.wxviptweak" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -224,12 +213,12 @@
       <workItem from="1533633867698" duration="1471000" />
       <workItem from="1533689398182" duration="3741000" />
       <workItem from="1534815039465" duration="36105000" />
-      <workItem from="1546915398225" duration="1817000" />
+      <workItem from="1546915398225" duration="1958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43134000" />
+    <option name="totallyTimeSpent" value="43275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1892" height="1057" extended-state="6" />
@@ -418,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="53" column="13" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/depiction/org.wxvip.wxviptweak/changelog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -450,17 +432,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Packages">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="93" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
         </state>
       </provider>
     </entry>
